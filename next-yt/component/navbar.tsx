@@ -9,6 +9,7 @@ export default function navbar () {
                 <Link href="/Contact">Contact</Link>
                 <Link href="/Data">Data</Link>
                 <Link href="/Data/info">Data info</Link>
+                <Link href="/Dragon">DBZ</Link>
             </nav>
         </div>
     )
